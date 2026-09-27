@@ -1,10 +1,10 @@
 ## Features
 
-User creation
-Wallet creation
-User-Wallet relationship
-Wallet retrieval
-Exception handling
+- User creation
+- Wallet creation
+- User-Wallet relationship
+- Wallet retrieval
+- Exception handling
 
 ## Coming next
 
