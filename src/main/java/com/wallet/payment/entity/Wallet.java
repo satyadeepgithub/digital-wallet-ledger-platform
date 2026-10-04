@@ -60,9 +60,7 @@ public class Wallet {
 		return id;
 	}
 
-	public void setId(Long id) {
-		this.id = id;
-	}
+	
 
 	public User getUser() {
 		return user;
@@ -108,9 +106,7 @@ public class Wallet {
 		return updatedAt;
 	}
 
-	public void setUpdatedAt(LocalDateTime updatedAt) {
-		this.updatedAt = updatedAt;
-	}
+	
 	
 	@PrePersist
 	protected void onCreate() {
